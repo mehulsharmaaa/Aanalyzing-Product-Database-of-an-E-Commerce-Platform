@@ -1,7 +1,9 @@
 USE Myntra;
 
 # 1. Brand Report Card
-
+SELECT brand_tag as "BRAND", rating as "RATING", product_name as "NAME", product_tag as "PRODUCT", rating_count as "TOTAL RATINGS" FROM product_data
+group by brand_tag, brand_name, rating, product_name, product_tag, rating_count
+order by rating_count desc;
 
 # 2. Which product_category of any brand is sold the most?
 SELECT product_tag, rating_count FROM product_data
@@ -51,5 +53,8 @@ GROUP BY product_name, rating
 ORDER BY rating desc;
 
 -- Bonus : Relation between price of the thisrt and its rating with respect to people rated
+SELECT product_tag, brand_tag, rating, rating_count, discounted_price from product_data WHERE product_tag = "tshirts" 
+GROUP BY product_tag, brand_tag, rating, rating_count, discounted_price
+ORDER BY rating, discounted_price desc;
 
 
