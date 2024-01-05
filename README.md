@@ -5,8 +5,8 @@
 - This repository includes Insights and Findings from Myntra's product database.
 - After obtaining raw data; exploration, cleaning, analyzing is done to get relevant results.
 - Repository includes a Data Analysis folder which has a  using SQL folder that includes solutions to various problems.
-
-- Analysed 
+- Analysed data and created relevant tables according to given questions.
+- Includes 4 set of questions in four different files. 
 
 + USING EXCEL:
 
