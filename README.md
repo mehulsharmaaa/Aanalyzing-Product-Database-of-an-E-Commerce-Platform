@@ -1,6 +1,6 @@
 # ANALYSIS OF MYNTRA'S PRODUCT DATABASE
 
-+USING SQL:
+*USING SQL:
 
 - This repository includes Insights and Findings from Myntra's product database.
 - After obtaining raw data; exploration, cleaning, analyzing is done to get relevant results.
@@ -8,7 +8,7 @@
 - Analysed data and created relevant tables according to given questions.
 - Includes 4 set of questions in four different files. 
 
-+ USING EXCEL:
+*USING EXCEL:
 
 - This repository includes Insights and Findings from Myntra's product database.
 - After obtaining raw data; exploration, cleaning, analyzing and visualization is done to get relevant results.
