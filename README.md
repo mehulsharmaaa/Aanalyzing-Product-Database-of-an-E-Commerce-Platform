@@ -1,4 +1,15 @@
 # ANALYSIS OF MYNTRA'S PRODUCT DATABASE
+
++USING SQL:
+
+- This repository includes Insights and Findings from Myntra's product database.
+- After obtaining raw data; exploration, cleaning, analyzing is done to get relevant results.
+- Repository includes a Data Analysis folder which has a  using SQL folder that includes solutions to various problems.
+
+- Analysed 
+
++ USING EXCEL:
+
 - This repository includes Insights and Findings from Myntra's product database.
 - After obtaining raw data; exploration, cleaning, analyzing and visualization is done to get relevant results.
 - Repository includes a Data Analysis folder which has both raw Data csv file and Analyzed excel workbook file.
